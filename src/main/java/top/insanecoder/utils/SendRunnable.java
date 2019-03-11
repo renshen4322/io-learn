@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Created by shaohang.zsh on 2016/7/13.
+ *
  */
 public class SendRunnable implements Runnable {
 

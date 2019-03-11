@@ -7,7 +7,7 @@ import java.io.*;
 import java.net.Socket;
 
 /**
- * Created by shaohang.zsh on 2016/7/13.
+ *
  */
 public class NormalTcpClient {
 

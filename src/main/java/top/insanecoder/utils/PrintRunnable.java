@@ -4,7 +4,7 @@ import java.io.DataInputStream;
 import java.io.IOException;
 
 /**
- * Created by shaohang.zsh on 2016/7/13.
+ *
  */
 public class PrintRunnable implements Runnable {
 

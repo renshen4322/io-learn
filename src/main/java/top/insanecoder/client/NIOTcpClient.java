@@ -15,7 +15,7 @@ import java.nio.channels.SocketChannel;
 import java.util.Iterator;
 
 /**
- * Created by shaohang.zsh on 2016/7/14.
+ *
  */
 public class NIOTcpClient {
 

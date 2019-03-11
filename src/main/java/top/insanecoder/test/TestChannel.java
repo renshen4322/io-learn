@@ -6,7 +6,7 @@ import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 
 /**
- * Created by shaohang.zsh on 2016/7/13.
+ *
  */
 public class TestChannel {
 
